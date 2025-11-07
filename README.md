@@ -1,6 +1,6 @@
 # larabean-cli
 
-# Larabean — Controls & Rules
+# Larabean — Baseline - Controls & Rules
 
 _Controls with rule titles only — for planning/backlog seed._
 
